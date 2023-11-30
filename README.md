@@ -1,5 +1,4 @@
-# 
-0x1D. C - Binary trees
+# Binary trees 
 
 # Authors 
  By Nabila bella
